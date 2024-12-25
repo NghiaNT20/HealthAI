@@ -1,0 +1,9 @@
+numpy
+streamlit
+SpeechRecognition
+gtts
+opencv-python-headless 
+mediapipe
+python-dotenv
+google.generativeai
+playsound==1.2.2
